@@ -1,0 +1,74 @@
+@font-face {
+  font-family: 'fontbangla';
+  src:  url('fonts/fontbangla.eot?38k5t9');
+  src:  url('fonts/fontbangla.eot?38k5t9#iefix') format('embedded-opentype'),
+    url('fonts/fontbangla.ttf?38k5t9') format('truetype'),
+    url('fonts/fontbangla.woff?38k5t9') format('woff'),
+    url('fonts/fontbangla.svg?38k5t9#fontbangla') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'fontbangla';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fb-avro:before {
+  content: "\e900";
+}
+.fb-bangladesh-map:before {
+  content: "\e901";
+}
+.fb-bkash:before {
+  content: "\e902";
+}
+.fb-bkash-icon:before {
+  content: "\e903";
+}
+.fb-dbbl:before {
+  content: "\e904";
+}
+.fb-dhaner-shish:before {
+  content: "\e905";
+}
+.fb-font-bangla:before {
+  content: "\e906";
+}
+.fb-government-seal:before {
+  content: "\e907";
+}
+.fb-grameenphone:before {
+  content: "\e908";
+}
+.fb-nari:before {
+  content: "\e909";
+}
+.fb-nid:before {
+  content: "\e90a";
+}
+.fb-nouka:before {
+  content: "\e90b";
+}
+.fb-potaka:before {
+  content: "\e90c";
+}
+.fb-purush:before {
+  content: "\e90d";
+}
+.fb-taka:before {
+  content: "\e90e";
+}
+.fb-teletalk:before {
+  content: "\e90f";
+}

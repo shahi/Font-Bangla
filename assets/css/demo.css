@@ -175,3 +175,8 @@ letter-spacing: 3px;
 label {
   font-weight: 500;
 }
+
+.tooltip {
+  font-family: 'Montserrat', sans-serif;
+
+}

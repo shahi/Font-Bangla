@@ -327,7 +327,13 @@
 
 <br>
 <p>Association with</p>
-<h1><i class="fb-government-seal"></i> <i class="fb-bkash"></i> <i class="fb-dbbl"></i> <i class="fb-grameenphone"></i> <i class="fb-teletalk"></i></h1>
+<h1>
+<i class="fb-government-seal" data-toggle="tooltip" title="Government of Bangladesh"></i> 
+<i class="fb-bkash" data-toggle="tooltip" title="BKash"></i> 
+<i class="fb-dbbl" data-toggle="tooltip" title="Dutch Bangla Bank"></i> 
+<i class="fb-grameenphone" data-toggle="tooltip" title="Grameenphone"></i> 
+<i class="fb-teletalk" data-toggle="tooltip" title="Teletalk"></i>
+</h1>
 
   </div>
   <!-- end of demo -->
@@ -384,6 +390,11 @@
 
     <script src="assets/js/liga.js"></script>
     <script src="assets/js/demo.js"></script>
+    <script>
+$(document).ready(function(){
+    $('[data-toggle="tooltip"]').tooltip();   
+});
+</script>
 
 
 

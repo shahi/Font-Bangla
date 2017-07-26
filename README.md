@@ -1,5 +1,5 @@
 # [Font Bangla v1.0.0](https://topuhit.github.io/Font-Bangla)
-### Bangla iconic font and CSS framework
+### Bangla iconic font and CSS toolkit
 
 Font Bangla is a full suite of 675 pictographic icons for easy scalable vector graphics on websites,
 created and maintained by [Md Tariqul Islam](https://facebook.com/tariquldesign).

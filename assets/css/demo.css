@@ -171,3 +171,7 @@ letter-spacing: 3px;
 .smallfont {
   font-size: 30px;
 }
+
+label {
+  font-weight: 500;
+}

@@ -26,6 +26,10 @@ a:hover, a:focus {
 .bshadow0, input {
 /*  box-shadow: inset 0 -2px #e7e7e7;*/
 }
+
+.tariqulwebfont {
+  font-family: 'TariqulWebFont', sans-serif; 
+}
 input:hover {
   box-shadow: inset 0 -2px #ccc;
 }
@@ -166,6 +170,10 @@ font-size: 20px;
 text-transform: uppercase;
 letter-spacing: 3px;
 
+}
+
+.jumbotron-carousel h1 {
+  font-size: 140px;
 }
 
 .smallfont {
